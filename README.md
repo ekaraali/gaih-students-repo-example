@@ -1,23 +1,15 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
+**Course Date:** 01-05.02.2021  
+**Name:** Ediz
+**Surname:** Karaali  
+**Email:** karaaliediz@gmail.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+**Note:** All files in this repository are in the format of .py 
 
-## Project Name
-Description of your project.
-
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
+## Global AI - Ediz Karaali's Project
+In this project, there are totaly 5 projects have been submitted. They can be seen through Homework and Final Homework files
 
 ### Certification
 ![](img/certificate_ex.png)
